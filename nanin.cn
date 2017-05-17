@@ -1,0 +1,1 @@
+./proxychains4 java -jar /home/kaleo/crackwork/qingdao/qingdao.jar http://10.1.206.71:8282/mmps 6 email ""
